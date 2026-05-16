@@ -178,17 +178,6 @@ Some actual issues I faced:
 
 Most of the effort went into fixing these, not writing new features.
 
----
-
-## Limitations
-
-- Single sensor support (no multi-channel yet)
-- No automatic bath/chamber control
-- Depends heavily on external reference quality
-- GUI is functional but not optimized
-
----
-
 ## Future improvements
 
 - Multi-sensor calibration
